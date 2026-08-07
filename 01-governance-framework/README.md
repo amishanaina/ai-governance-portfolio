@@ -8,12 +8,12 @@
 
 ## What this is
 
-This case study examines a real, publicly documented category of AI system — market surveillance technology used by stock exchanges to detect trading manipulation (spoofing, layering, insider trading, wash trading, and related patterns).
+This case study examines a real, publicly documented category of AI system market surveillance technology used by stock exchanges to detect trading manipulation (spoofing, layering, insider trading, wash trading, and related patterns).
 
 It applies **two frameworks together**, reflecting how AI governance actually works in regulated industries:
 
-- **NIST AI RMF** (Govern → Map → Measure → Manage) — the general-purpose AI risk framework
-- **EU Market Abuse Regulation (MAR), Annex 1** — the sector-specific regulation that already governs market manipulation detection, predating most AI-specific law
+- **NIST AI RMF** (Govern → Map → Measure → Manage) the general-purpose AI risk framework
+- **EU Market Abuse Regulation (MAR), Annex 1** the sector-specific regulation that already governs market manipulation detection, predating most AI-specific law
 
 ## What it covers
 
@@ -28,7 +28,7 @@ It applies **two frameworks together**, reflecting how AI governance actually wo
 
 ## Why this case study
 
-Market surveillance AI sits at the intersection of high financial stakes, individual privacy exposure, and direct regulatory accountability — and is one of the few AI use cases governed by mature, pre-existing regulation. That makes it a strong test case for demonstrating how AI-specific governance frameworks apply *alongside* domain regulation, rather than in isolation.
+Market surveillance AI sits at the intersection of high financial stakes, individual privacy exposure, and direct regulatory accountability and is one of the few AI use cases governed by mature, pre-existing regulation. That makes it a strong test case for demonstrating how AI-specific governance frameworks apply *alongside* domain regulation, rather than in isolation.
 
 ## Sources
 
